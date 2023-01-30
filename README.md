@@ -17,3 +17,6 @@ something awesome, funny and tricky
 ## Tool
 
 - [astexplorer](https://github.com/fkling/astexplorer) - AST Explorer https://astexplorer.net/
+- [caniuse](https://github.com/fyrd/caniuse) - Browser support tables, 浏览器兼容性表格 https://caniuse.com/
+- [Z-Library](https://zlib.cydiar.com) - Z-Library 出版图书
+
