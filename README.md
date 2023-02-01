@@ -20,3 +20,10 @@ something awesome, funny and tricky
 - [caniuse](https://github.com/fyrd/caniuse) - Browser support tables, 浏览器兼容性表格 https://caniuse.com/
 - [Z-Library](https://zlib.cydiar.com) - Z-Library 出版图书
 
+## Tutorial
+
+- [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - babel handbook, Babel 用户手册
+
+## Glossary
+
+- [polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)
