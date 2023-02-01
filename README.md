@@ -23,7 +23,8 @@ something awesome, funny and tricky
 ## Tutorial
 
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - babel handbook, Babel 用户手册
+- [Module Federation](https://module-federation.github.io/)  - Module Federation, 模块联邦介绍
 
 ## Glossary
 
-- [polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)
+- [polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill) - what is a polyfill, 什么是 polyfill
