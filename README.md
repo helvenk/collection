@@ -24,6 +24,7 @@ something awesome, funny and tricky
 
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - babel handbook, Babel 用户手册
 - [Module Federation](https://module-federation.github.io/)  - Module Federation, 模块联邦介绍
+- [typescript-book](https://github.com/basarat/typescript-book/) - typescript handbook，深入理解 TS
 
 ## Glossary
 
