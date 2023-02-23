@@ -30,3 +30,10 @@ something awesome, funny and tricky
 ## Glossary
 
 - [polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill) - what is a polyfill, 什么是 polyfill
+
+## Git
+
+- reset user info on each commit, 重置所有 commit 的作者信息
+```sh
+git rebase --root --exec 'git commit --amend --no-edit --reset-author'
+```
