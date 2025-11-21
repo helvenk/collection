@@ -26,7 +26,7 @@ something awesome, useful, funny and tricky
 
 ## Tool 工具
 
-- [Z-Library](https://zlib.cydiar.com) - Z-Library 出版图书
+- [Z-Library](https://z-library.sk) - Z-Library 在线图书馆，镜像站 https://zlib.wwwnav.com/
 
 ## OpenSource 开源解决方案
 
